@@ -1,0 +1,4 @@
+source test
+begin
+    put "POES\n"
+end

@@ -1,0 +1,30 @@
+================================================================================
+                     RW244: SCANNER SUBMISSION REPORT 2022
+================================================================================
+
+--------------------------------------------------------------------------------
+1. Briefly list any known bugs and limitations in your scanner.
+--------------------------------------------------------------------------------
+
+   [if a escape sequence is typed in a string with a space directly following, the character before the last comment or i.e. the last character prints a random ascii value]
+
+--------------------------------------------------------------------------------
+2. Describe whatever help you have received from other people.  Write down their
+   names (including the lecturer, demis, classmates, and friends).
+--------------------------------------------------------------------------------
+
+   [Clayton Solomon 25201247, Eddy Bekker 23797312; Discussed logical process and errors that 						may occur]
+
+--------------------------------------------------------------------------------
+3. Describe any serious problems you have encountered.
+--------------------------------------------------------------------------------
+
+   [My scanner limitation is one, unable to solve as of current. While processing tokens the logic for processing key pairs such as <= or <> along with single operators was challenging.]
+
+--------------------------------------------------------------------------------
+4. Feel free to provide any additional comments.
+--------------------------------------------------------------------------------
+
+   ["None"]
+
+================================================================================

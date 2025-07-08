@@ -1,0 +1,48 @@
+================================================================================
+           RW244: SYMBOL TABLE & TYPE CHECKING SUBMISSION REPORT 2022
+================================================================================
+
+--------------------------------------------------------------------------------
+1. Briefly list any known bugs and limitations in your hash table
+   implementation.
+--------------------------------------------------------------------------------
+
+   [Replace the bracketed text with your response or "None".  Please keep to the
+   formatting: Note that the text is indented three spaces, and that sentences
+   are separated from one another by two spaces.  If you want to start a new
+   paragraph, leave a blank line.]
+
+--------------------------------------------------------------------------------
+2. Briefly list any known bugs and limitations in your symbol table
+   implementation.
+--------------------------------------------------------------------------------
+
+   [Replace the bracketed text with your response or "None".]
+
+--------------------------------------------------------------------------------
+3. Briefly list any known bugs and limitations in your type checking
+   implementation.
+--------------------------------------------------------------------------------
+
+   [Replace the bracketed text with your response or "None".]
+
+--------------------------------------------------------------------------------
+4. Describe whatever help you have received from other people.  Write down their
+   names (including the lecturer, demis, classmates, and friends).
+--------------------------------------------------------------------------------
+
+   [Replace the bracketed text with your response or "None".]
+
+--------------------------------------------------------------------------------
+5. Describe any serious problems you have encountered.
+--------------------------------------------------------------------------------
+
+   [Replace the bracketed text with your response or "None".]
+
+--------------------------------------------------------------------------------
+7. Feel free to provide any additional comments.
+--------------------------------------------------------------------------------
+
+   [Replace the bracketed text with your response or "None".]
+
+================================================================================

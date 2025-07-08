@@ -1,0 +1,11 @@
+source poes
+begin 
+    integer i, j;
+    put "ENTER VALUE: ";
+    get i;
+    put "ENTER VALUE: ";
+    get j;
+
+
+    put i * j." MULTIPLICATION\n"
+end
