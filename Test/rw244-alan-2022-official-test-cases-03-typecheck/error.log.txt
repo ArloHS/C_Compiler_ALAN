@@ -1,0 +1,64 @@
+alanc: error301.alan:3:19: error: multiple definition of 'i'
+alanc: error302.alan:4:13: error: multiple definition of 'i'
+alanc: error303.alan:6:5: error: unknown identifier 'j'
+alanc: error304.alan:5:10: error: incompatible types (expected boolean, found integer) for assignment to 'b'
+alanc: error305.alan:6:10: error: incompatible types (expected integer, found boolean) for assignment to 'j'
+alanc: error306.alan:8:12: error: incompatible types (expected boolean, found integer) for operator 'or'
+alanc: error307.alan:7:12: error: incompatible types (expected integer, found boolean) for operator '+'
+alanc: error308.alan:6:11: error: incompatible types (expected boolean, found integer) for 'while' guard
+alanc: error309.alan:6:8: error: incompatible types (expected boolean, found integer) for 'if' guard
+alanc: error310.alan:8:10: error: incompatible types (expected integer, found boolean) for array index of 'iarr'
+alanc: error311.alan:8:16: error: incompatible types (expected boolean, found integer) for assignment to 'barr'
+alanc: error312.alan:6:13: error: incompatible types (expected integer array, found integer) for assignment to 'iarr'
+alanc: error313.alan:6:21: error: '+' is an illegal array operation
+alanc: error314.alan:7:16: error: incompatible types (expected boolean array, found boolean) for assignment to 'barrtwo'
+alanc: error315.alan:8:16: error: incompatible types (expected boolean, found integer) for assignment to 'barr'
+alanc: error316.alan:10:11: error: incompatible types (expected integer, found boolean) for operator '+'
+alanc: error317.alan:6:8: error: incompatible types (expected boolean, found boolean array) for 'if' guard
+alanc: error318.alan:6:8: error: incompatible types (expected boolean, found integer array) for 'if' guard
+alanc: error319.alan:6:8: error: incompatible types (expected boolean, found integer) for 'if' guard
+alanc: error320.alan:5:5: error: 'i' is not an array
+alanc: error321.alan:5:5: error: 'i' is not an array
+alanc: error322.alan:5:10: error: incompatible types (expected boolean, found boolean array) for assignment to 'b'
+alanc: error323.alan:6:10: error: incompatible types (expected integer, found boolean) for array index of 'barr'
+alanc: error324.alan:6:16: error: incompatible types (expected integer, found integer array) for allocation to indexed array 'iarr'
+alanc: error325.alan:5:11: error: incompatible types (expected boolean, found boolean array) for 'while' guard
+alanc: error326.alan:6:10: error: incompatible types (expected integer, found boolean) for unary minus
+alanc: error327.alan:6:13: error: incompatible types (expected integer, found boolean) for operator '*'
+alanc: error328.alan:6:13: error: incompatible types (expected integer, found boolean) for operator '/'
+alanc: error329.alan:6:12: error: incompatible types (expected boolean, found integer) for operator 'and'
+alanc: error330.alan:6:14: error: incompatible types (expected boolean, found integer) for 'not'
+alanc: error331.alan:2:48: error: multiple definition of 'i'
+alanc: error332.alan:4:17: error: multiple definition of 'j'
+alanc: error333.alan:28:32: error: too few arguments for call to 'findmin'
+alanc: error334.alan:28:35: error: too many arguments for call to 'findmin'
+alanc: error335.alan:28:28: error: incompatible types (expected integer array, found integer) for parameter 1 of call to 'findmin'
+alanc: error336.alan:28:34: error: incompatible types (expected integer, found integer array) for parameter 3 of call to 'findmin'
+alanc: error337.alan:6:19: error: incompatible types (expected integer, found boolean) for array size of 'iarr'
+alanc: error338.alan:10:5: error: 'dummy' is not a variable
+alanc: error339.alan:8:11: error: incompatible types (expected boolean, found integer) for 'elsif' guard
+alanc: error340.alan:5:15: error: '+' is an illegal array operation
+alanc: error341.alan:5:18: error: '+' is an illegal array operation
+alanc: error342.alan:5:9: error: unary minus is an illegal array operation
+alanc: error343.alan:7:12: error: incompatible types (expected boolean, found integer) for operator 'or'
+alanc: error344.alan:8:12: error: incompatible types (expected boolean, found integer) for operator 'or'
+alanc: error345.alan:7:12: error: incompatible types (expected integer, found boolean) for operator '>'
+alanc: error346.alan:6:15: error: '=' is an illegal array operation
+alanc: error347.alan:6:15: error: '=' is an illegal array operation
+alanc: error348.alan:6:12: error: '=' is an illegal array operation
+alanc: error349.alan:6:12: error: incompatible types (expected integer, found boolean) for operator '='
+alanc: error350.alan:6:12: error: '*' is an illegal array operation
+alanc: error351.alan:6:13: error: '*' is an illegal array operation
+alanc: error352.alan:6:13: error: '*' is an illegal array operation
+alanc: error353.alan:6:12: error: incompatible types (expected boolean, found integer) for operator 'and'
+alanc: error354.alan:6:12: error: incompatible types (expected integer, found boolean) for operator '/'
+alanc: error355.alan:9:14: error: 'dummy' is not a function
+alanc: error356.alan:7:10: error: 'inc' is not a procedure
+alanc: error357.alan:5:13: error: incompatible types (expected integer, found integer array) for allocation to indexed array 'a'
+alanc: error358.alan:6:9: error: expected scalar variable instead of 'i'
+alanc: error359.alan:4:15: error: a leave expression is not allowed for a procedure
+alanc: error360.alan:10:19: error: a leave expression is not allowed for a procedure
+alanc: error361.alan:4:9: error: missing leave expression for a function
+alanc: error362.alan:10:13: error: missing leave expression for a function
+alanc: error363.alan:4:15: error: incompatible types (expected integer, found boolean) for 'leave' statement
+alanc: error364.alan:11:19: error: incompatible types (expected integer, found boolean) for 'leave' statement
