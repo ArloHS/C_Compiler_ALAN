@@ -1,0 +1,66 @@
+{
+	"tests/output.alan": {
+		"testscanner": {
+			"stderr": "",
+			"stdout": "'source'\nIdentifier: 'output'\n'begin'\n'put'\nString: \"Run forrest run\"\n'end'\n",
+			"vouch": 1
+		},
+		"time": 1659624686.2576985,
+		"checked": true
+	},
+	"tests/trivial.alan": {
+		"testscanner": {
+			"returncode": 0,
+			"stderr": "",
+			"stdout": "'source'\nIdentifier: 'trivial'\n'begin'\n'relax'\n'end'\n"
+		},
+		"time": 1659624541.1936908,
+		"checked": true,
+		"vouch": 1
+	},
+	"tests/Comments.alan": {
+		"time": 1659689282.4055076,
+		"checked": false,
+		"testscanner": {
+			"stderr": "testscanner: Comments.alan:4:5: error: comment not closed\n",
+			"stdout": "'source'\nIdentifier: 'trivial'\n'begin'\n",
+			"vouch": 1
+		}
+	},
+	"tests/strings.alan": {
+		"time": 1659690256.1575592,
+		"checked": true,
+		"testscanner": {
+			"stderr": "",
+			"stdout": "'source'\nIdentifier: 'strings'\n'begin'\n'put'\nString: \"Supercalifragilisticexpilatdocious\"\n';'\n'put'\nString: \"\"\n';'\n'end'\n",
+			"vouch": 1
+		}
+	},
+	"tests/NumberOverflow.alan": {
+		"time": 1659689135.2415,
+		"checked": true,
+		"testscanner": {
+			"stderr": "testscanner: NumberOverflow.alan:4:9: error: number too large\n",
+			"stdout": "'source'\nIdentifier:'NumberOverflow'\n'begin'\n'put'\nNumber: 2147483647\n';'\n'put'\n",
+			"vouch": 1
+		}
+	},
+	"tests/Comments_01.alan": {
+		"time": 1660036762.4653912,
+		"checked": false,
+		"testscanner": {
+			"stderr": "testscanner: Comments_01.alan:8:20: error: comment not closed\n",
+			"stdout": "'source'\nIdentifier: 'Comment_01'\n'begin'\n'put'\nString: \"Comments\"\n';'\n'put'\nString: \"Code\"\n';'\n'put'\nNumber: 2\n'+'\nNumber: 5\n'put'\nString: \"runs smoothly\"\n';'\n'end'\n",
+			"vouch": 1
+		}
+	},
+	"tests/strings_02.alan": {
+		"time": 1660125345.6439898,
+		"checked": false,
+		"testscanner": {
+			"stderr": "",
+			"stdout": "'source'\nIdentifier: 'strings_02'\n'begin'\n'put'\nString: \"supercalifragilistic expialidocious this is a mega test which will succeedooaanjgfgalsjljbgsabjlkgfabljkfgslbkaslkbfkbagsbkjlsagljkbsagljbksdajklbsagljbksagljbkasflbkjafslbjkafslbjkfsajblkdsfajbklsfdajbklsdfajbklsfdajbklfsdajblksfdajblfadsjbklafsjbklafjbklafsjbkldasfjkblafsjkbldasfbjklafsdbjklasdfjbksajkbljbdakbjlfsadjlbkafsdjlbksfdabjlkadsfbjlkadfsjblkadsfljbkafsdjklbafsbjlkdfsalbjkafdsljbkadsfbljasdfljbkafsdbjkladsfbljkafsdljbkafsdbljkadsfljbksafbjdasfjlbkasfhtrqjbrtlrqjbjklbafsarlbjkfuisajbkllbkjrwqlbjkwrqourwqljkrwjkfjfjjfjfjfjfjffmmvmvmvmvmhbououbobobaboobasbosobjasobjsobobjsaobjsdaosaobjdasobobasdbojdsobsaboabpebibifbpjbpifaspbjfaspbjpibapjbiapbjsabpjasfpbjasfpbjsfabpjasfpbjbpsajbpjsapbjasfpjboasfpjobweruoyrt9hoiuashiufhsdpfocuhg0r9wehsdoigvhfoiufxchgoivehsodfiuczbgoevsduxbcogiherowfucdhgvoivsuajdxbgvoiushxtofinaslcjvoifsudhoicubvsaidboiaboiudsaboiabgoigasboiashboivasboivbasoidbfoaisbdofiasuboivubisuoaudbfoiabsioaashiufbsiodbhigashboidhboiahbfosiahbdoihsabdoihbfaosidhbofisabfoiasjbdfoijbasoihfdboisajboiashbdoidahbiohbaoihdboigghdosiuhgoiaufhcgoisahoighaoihabogiaboiafhbofsaihboiasbofisdbsaoibasoibofsiaboiasfboasifboiasghoiasubioasboiafbioaboisdboiasfbasioboifasbaosobiasiobas\"\n'end'\n",
+			"vouch": 1
+		}
+	}
+}

@@ -1,0 +1,4 @@
+source output
+begin
+    put "Run forrest run" { Should Print {Run Forrest Run}}
+end

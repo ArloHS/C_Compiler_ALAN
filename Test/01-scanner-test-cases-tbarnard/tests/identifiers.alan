@@ -1,0 +1,32 @@
+source identifiers
+    function fibonacci(integer n1) to integer
+    begin
+        if (n1 = 1) then
+            put n1
+        elsif (n1 = 2) then 
+            leave  n1
+        else 
+            relax
+    end
+begin
+    integer test;
+    integer compile;
+    integer array help;
+    help := array 5;
+    
+    test := 3;
+    get compile;
+    test := compile + test;
+    call fibonacci(compile);
+    while (compile < 100) and (test <=5) do 
+        put compile;
+        compile := compile + 1
+    end
+    if true or not false then
+       put 123 . (88 rem 5)
+    end
+    
+
+    boolean supercalifragilisticexpialidocious;
+    
+end

@@ -1,0 +1,6 @@
+source NumberOverflow
+begin
+    put 2147483647;
+    put 2147483648
+end
+

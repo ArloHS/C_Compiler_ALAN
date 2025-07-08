@@ -1,0 +1,5 @@
+source strings
+begin
+    put "Supercalifragilisticexpilatdocious";
+    put "";
+end

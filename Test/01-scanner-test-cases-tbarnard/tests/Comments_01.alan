@@ -1,0 +1,8 @@
+source Comment_01
+begin 
+    { This File will tests } 
+    put "Comments"; {In between} put "Code";
+    { It will also test that the} put 2+5{Code} put "runs smoothly";
+    {OBVIOUSLY{{COMMENTS}CAN}BE NESTED "fail";}
+    {RUN}
+end{CHECKING DEAD} { GOODBYE

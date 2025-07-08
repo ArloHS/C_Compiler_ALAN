@@ -1,0 +1,9 @@
+source trivial
+begin
+    { This is a Comment }
+    { { This is a comment } within a comment.
+    {{ This is another co}ment}
+    {{This is an issue}}
+    {
+end
+
