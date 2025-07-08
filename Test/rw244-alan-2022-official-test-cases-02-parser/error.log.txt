@@ -1,0 +1,46 @@
+alanc: error201.alan:1:0: error: expected 'source', but found end-of-file
+alanc: error202.alan:1:16: error: illegal character ':' (ASCII #58)
+alanc: error203.alan:3:10: error: expected 'end', but found end-of-file
+alanc: error204.alan:3:16: error: expected identifier, but found ';'
+alanc: error205.alan:4:5: error: expected ';', but found 'boolean'
+alanc: error206.alan:8:5: error: expected ':=', but found 'relax'
+alanc: error207.alan:6:1: error: expected array allocation or expression, but found 'end'
+alanc: error208.alan:14:5: error: expected 'end', but found 'put'
+alanc: error209.alan:8:13: error: expected factor, but found '<'
+alanc: error210.alan:8:27: error: expected ']', but found ':='
+alanc: error211.alan:8:9: error: expected ']', but found '<'
+alanc: error212.alan:2:1: error: expected identifier, but found 'begin'
+alanc: error213.alan:2:5: error: expected 'begin', but found 'relax'
+alanc: error214.alan:3:15: error: expected ';', but found identifier
+alanc: error215.alan:4:1: error: expected statement, but found 'end'
+alanc: error216.alan:5:7: error: expected ':=', but found numeric literal
+alanc: error217.alan:9:9: error: expected 'then', but found 'relax'
+alanc: error218.alan:5:8: error: expected factor, but found 'then'
+alanc: error219.alan:6:5: error: expected statement, but found 'end'
+alanc: error220.alan:4:1: error: expected expression or string, but found 'end'
+alanc: error221.alan:4:1: error: expected identifier, but found 'end'
+alanc: error222.alan:4:5: error: expected statement, but found 'end'
+alanc: error223.alan:4:9: error: expected 'do', but found 'relax'
+alanc: error224.alan:4:1: error: expected factor, but found 'end'
+alanc: error225.alan:4:1: error: expected factor, but found 'end'
+alanc: error226.alan:4:1: error: expected factor, but found 'end'
+alanc: error227.alan:4:1: error: expected factor, but found 'end'
+alanc: error228.alan:4:1: error: expected factor, but found 'end'
+alanc: error229.alan:4:1: error: expected factor, but found 'end'
+alanc: error230.alan:4:1: error: expected ')', but found 'end'
+alanc: error231.alan:6:1: error: expected ']', but found 'end'
+alanc: error232.alan:6:1: error: expected factor, but found 'end'
+alanc: error233.alan:4:1: error: expected factor, but found 'end'
+alanc: error234.alan:5:10: error: expected 'end', but found ';'
+alanc: error235.alan:5:50: error: expected factor, but found ')'
+alanc: error236.alan:5:27: error: expected factor, but found ')'
+alanc: error237.alan:5:45: error: expected factor, but found ']'
+alanc: error238.alan:6:5: error: expected 'end', but found 'begin'
+alanc: error239.alan:6:1: error: expected expression or string, but found 'end'
+alanc: error240.alan:2:16: error: expected ')', but found identifier
+alanc: error241.alan:16:21: error: expected 'end', but found string literal
+alanc: error242.alan:2:27: error: expected 'begin', but found 'integer'
+alanc: error243.alan:7:10: error: expected 'end', but found ';'
+alanc: error244.alan:2:5: error: expected 'begin', but found identifier
+alanc: error245.alan:11:13: error: expected expression or string, but found 'put'
+alanc: error246.alan:15:22: error: expected expression or string, but found ';'
